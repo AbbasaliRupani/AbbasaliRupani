@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbbasaliRupani
-- 👀 I’m interested in MERN stack development
-- 🌱 I’m currently learning full stack development
+- 👀 I’m interested in Fullstack development and AI engineering
+- 🌱 I’m currently learning full stack development and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
